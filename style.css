@@ -4,3 +4,21 @@ body {
 h1{
     color: black;
 }
+
+div{
+    margin: 2%;
+    width: 50%;
+    height: 200px;
+}
+
+#padre{
+   background-color: brown;
+}
+
+#hijo{
+    background-color:beige;
+}
+
+.caja {
+    width: 400px;
+}
